@@ -1,0 +1,45 @@
+.text1
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: black;
+    background-color: rgb(252, 164, 193);
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.text2{
+    background-color: rgb(156, 245, 156);
+    size: 10px;
+}
+
+.text3{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: black;
+    background-color: rgb(178, 217, 252);
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.text4
+{
+    background-color: rgb(245, 255, 152);
+    size: 10px;
+
+}
+
+.text5
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: black;
+    background-color: rgb(203, 231, 255);
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
