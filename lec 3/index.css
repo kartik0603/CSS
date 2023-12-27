@@ -1,0 +1,89 @@
+.parent
+{
+    background-color: #FFDEE9;
+background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
+height: 100%;
+   width: 100%;
+
+}
+
+
+
+
+
+
+.sec1{
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    color: rgb(46, 46, 143);
+    font-style: oblique;
+    letter-spacing: 0.02em;
+    word-spacing: 0.02em;
+   
+    border-radius: 10dvw;
+    padding-left: 10%;
+    padding-right: 10%;
+    
+
+    background-image: url("/sec1.jpg");
+   height: 100vh;
+   width: 70vw;
+   margin-bottom: 10%;
+}
+
+.sec2
+{
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    font-weight: bolder;
+    font-style: oblique;
+    letter-spacing: 0.02em;
+    word-spacing: 0.02em;
+    
+    border-radius: 10dvw;
+    padding-left: 10%;
+    padding-right: 10%;
+    color: white;
+
+    background-image: url("/sec2.jpg");
+    background-size: 100%;
+   height: 100vh;
+   width: 70vw;
+   margin-bottom: 10%;
+
+}
+.sec3
+{
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    font-weight: bolder;
+    font-style: oblique;
+    letter-spacing: 0.02em;
+    word-spacing: 0.02em;
+   
+    border-radius: 10dvw;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 2%;
+
+    color: rgb(111, 2, 126);
+
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    background-size: 100%;
+   height: 100vh;
+   width: 70vw;
+   margin-bottom: 10%;
+}
