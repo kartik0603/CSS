@@ -179,6 +179,13 @@ background-image: linear-gradient(62deg, #e3effc 0%, #fff0f0 100%);
 
 
 }
+
+
+.Description
+{
+    background-image: linear-gradient(62deg, #b3d5f9 0%, #fafafa 100%);
+
+}
 .product{
     font-size: xx-large;
     font-weight: bolder;
