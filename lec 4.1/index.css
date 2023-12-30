@@ -1,0 +1,479 @@
+.text1
+{
+    font-size: xxx-large;
+    font-weight: bolder;
+    flex-direction: row;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 2.5%;
+    color: rgb(0, 0, 80);
+    text-shadow: 500px black;
+    background-image: linear-gradient(to top, #e7eff4 0%, #eef3f5 100%);
+
+
+}
+
+
+
+.phone
+{
+    display: grid;
+    align-items: normal;
+    grid-template-columns: 1fr 1fr;
+
+    
+
+
+
+}
+
+.ph1
+{
+    display: flex;
+    flex-direction: row;
+
+}
+.img1
+{
+    
+    height: auto;
+    width: 80%;
+    margin-bottom: 10%;
+    
+
+}
+.ph2
+{
+    display: flex;
+}
+.img2
+{
+    display: inline;
+
+    height: auto;
+    width: 80%;
+    margin-bottom: 10%;
+
+}
+
+.ph3
+{
+    display: flex;
+}
+.img3
+{
+    display: inline;
+
+    height: auto;
+    width: 80%;
+    margin-bottom: 10%;
+}
+.ph4
+{
+    display: flex;
+
+}
+.img4
+{
+    display: inline;
+
+    height: auto;
+    width: 80%;
+    margin-bottom: 10%;
+}
+
+.ph5
+{
+    display: flex;
+}
+.img5
+{
+    display: inline;
+
+    height: auto;
+    width: 80%;
+    margin-bottom: 10%;
+}
+
+.ph6
+{
+    display: flex;
+}
+.img6
+{
+    display: inline;
+
+    height: auto;
+    width: 80%;
+    margin-bottom: 10%;
+}
+
+.ph7
+{
+    display: flex;
+}
+.img7
+{
+    display: inline;
+
+    height: auto;
+    width: 80%;
+    margin-bottom: 10%;
+}
+
+.ph8
+{
+    display: flex;
+}
+.img8
+{
+    display: inline;
+
+    height: auto;
+    width: 80%;
+    margin-bottom: 10%;
+}
+
+.text2
+{
+    font-size: larger;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.price
+{
+    display: flex;
+}
+.text3
+{
+    font-size: large;
+    margin-bottom: 0.5%;
+    word-spacing: 2%;
+    padding-top: 1%;
+}
+.amount
+{
+    font-size: xxx-large;
+    font-weight: bolder;
+    margin-left: 1%;
+
+}
+
+.pricing
+{
+    background-image: linear-gradient(to top, #e7eff4 0%, #eef3f5 100%);
+}
+
+.phone
+{
+    background-image: linear-gradient(to top, #e7eff4 0%, #eef3f5 100%);
+
+}
+
+.about
+{
+    background-image: linear-gradient(to top, #e7eff4 0%, #eef3f5 100%);
+
+}
+.video
+ {
+    width: 100%;
+    display: flex;
+    height: 100%;
+    object-fit: cover;
+    margin-bottom: 0%;
+    
+  }
+  .ph9
+  {
+    display: flex;
+  }
+  .img9
+  {
+    width: 100%;
+    display: flex;
+    height: 100%;
+    object-fit: cover;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+  }
+
+  .ph10
+  {
+    display: flex;
+  }
+  .img10
+  {
+    width: 100%;
+    display: flex;
+    height: 100%;
+    object-fit: cover;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+  }
+  .ph11
+  {
+    display: flex;
+  }
+  .img11
+  {
+    width: 100%;
+    display: flex;
+    height: 100%;
+    object-fit: cover;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+  }
+
+  .ph12
+  {
+    display: flex;
+  }
+  .img12
+  {
+    width: 100%;
+    display: flex;
+    height: 100%;
+    object-fit: cover;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+  }
+
+  .ph13
+  {
+    display: flex;
+  }
+  .img13
+  {
+    width: 100%;
+    display: flex;
+    height: 100%;
+    object-fit: cover;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+  }
+
+  .ph14
+  {
+    display: flex;
+  }
+  .img14
+  {
+    width: 100%;
+    display: flex;
+    height: 100%;
+    object-fit: cover;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+  }
+
+  .ph15
+  {
+    display: flex;
+  }
+  .img15
+  {
+    width: 100%;
+    display: flex;
+    height: 100%;
+    object-fit: cover;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+  }
+
+
+  .ph16
+  {
+    display: flex;
+  }
+  .img16
+  {
+    width: 100%;
+    display: flex;
+    height: 100%;
+    object-fit: cover;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+  }
+
+  .ph16
+  {
+    display: flex;
+  }
+  .img16
+  {
+    width: 100%;
+    display: flex;
+    height: 100%;
+    object-fit: cover;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+  }
+
+  .ph17
+  {
+    display: flex;
+  }
+  .img17
+  {
+    width: 100%;
+    display: flex;
+    height: 100%;
+    object-fit: cover;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+  }
+
+  .ph18
+  {
+    display: flex;
+  }
+  .img18
+  {
+    width: 100%;
+    display: flex;
+    height: 100%;
+    object-fit: cover;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+  }
+
+  .ph19
+  {
+    display: flex;
+  }
+  .img19
+  {
+    width: 100%;
+    display: flex;
+    height: 100%;
+    object-fit: cover;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+  }
+
+  .ph20
+  {
+    display: flex;
+  }
+  .img20
+  {
+    width: 100%;
+    display: flex;
+    height: 100%;
+    object-fit: cover;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+  }
+  .shooting
+  {
+    background-image: linear-gradient(to top, #e7eff4 0%, #eef3f5 100%);
+
+  }
+
+  .ph21
+  {
+    display: flex;
+  }
+  .img21
+  {
+    width: 100%;
+    display: flex;
+    height: 100%;
+    object-fit: cover;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+  }
+
+  .ph22
+  {
+    display: flex;
+  }
+  .img22
+  {
+    width: 100%;
+    display: flex;
+    height: 100%;
+    object-fit: cover;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+  }
+
+  .ph23
+  {
+    display: flex;
+  }
+  .img23
+  {
+    width: 100%;
+    display: flex;
+    height: 100%;
+    object-fit: cover;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+  }
+
+  .ph24
+  {
+    display: flex;
+  }
+  .img24
+  {
+    width: 100%;
+    display: flex;
+    height: 100%;
+    object-fit: cover;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+  }
+
+  .ph25
+  {
+    display: flex;
+  }
+  .img25
+  {
+    width: 100%;
+    display: flex;
+    height: 100%;
+    object-fit: cover;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+  }
+  .ph26
+  {
+    display: flex;
+  }
+  .img26
+  {
+    width: 100%;
+    display: flex;
+    height: 100%;
+    object-fit: cover;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+  }
+
+  .parent
+  {
+    background-image: linear-gradient(to top, #e7eff4 0%, #eef3f5 100%);
+
+  }
