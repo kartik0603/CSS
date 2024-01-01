@@ -1,0 +1,96 @@
+.parent1
+{
+    display: flex;
+}
+
+.parenr2
+{
+    display: flex;
+}
+
+.box1
+{
+    height: 25%;
+    width: 25%;
+    border: 2px solid red;
+    margin-right: 2.5%;
+    margin-bottom: 5%;
+}
+.box2
+{
+    height: 25%;
+    width: 25%;
+    border: 2px solid red;
+    margin-right: 2.5%;
+    margin-bottom: 5%;
+
+
+}
+.box3
+{
+    height: 25%;
+    width: 25%;
+    border: 2px solid red;
+    margin-right: 2.5%;
+    margin-bottom: 5%;
+
+
+}
+.box4
+{
+    height: 25%;
+    width: 25%;
+    border: 2px solid red;
+    margin-right: 2.5%;
+    margin-bottom: 5%;
+
+
+}
+
+
+.parent2
+{
+    display: flex;
+}
+
+.box01
+{
+    height: 25%;
+    width: 25%;
+    border: 2px solid red;
+    margin-right: 2.5%;
+    margin-top: 2.5%;
+
+
+}
+
+.box02
+{
+    height: 25%;
+    width: 25%;
+    border: 2px solid red;
+    margin-right: 2.5%;
+    margin-top: 2.5%;
+
+
+}
+.box03
+{
+    height: 25%;
+    width: 25%;
+    border: 2px solid red;
+    margin-right: 2.5%;
+    margin-top: 2.5%;
+
+
+}
+.box04
+{
+    height: 25%;
+    width: 25%;
+    border: 2px solid red;
+    margin-right: 2.5%;
+    margin-top: 2.5%;
+
+
+}
