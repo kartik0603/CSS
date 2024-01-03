@@ -1,0 +1,93 @@
+.section1{
+    background-color: rgb(252, 252, 252);
+    border: solid 2px green;
+    border-radius: 10px;
+    padding: 10px;
+    
+    font-size: x-large;
+    font-weight: bold;
+    color: rgb(0, 0, 74);
+    font-family: sans-serif;
+    text-align: center;
+    line-height: 1.5;
+    letter-spacing: 0.75px;
+    word-spacing: 1.5px;
+    text-decoration: underline;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+.section2{
+
+    background-color: rgb(237, 233, 233);
+border: dotted 2px  red;
+border-radius: 10px;
+padding: 10px;
+font-weight: bolder;
+color: rgb(50, 0, 50);
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: left;
+line-height: 1.5;
+    letter-spacing: 0.75px;
+    word-spacing: 1.5px;
+    
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+#line{
+    text-decoration: overline;
+}
+
+.section3{
+    background-color: rgb(207, 249, 249);
+    border: solid 2px orange;
+    border-radius: 20px;
+    padding: 10px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: justify ;
+font-style: oblique;
+letter-spacing: 0.75px;
+word-spacing: 1.5px;
+margin-bottom: 20px;
+
+}
+
+.section4{
+
+    background-color: rgb(255, 255, 255);
+    border:  solid 2px purple;
+    border-radius: 20px;
+    padding: 2%;
+    color: black;
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+    font-style: initial;
+    text-align: justify;
+    letter-spacing: 0.75px;
+    word-spacing: 1.5px;
+    margin-bottom: 20px;
+}
+
+
+
+.section5{
+
+    background-color: rgb(252, 252, 161);
+    border:  solid 5px green;
+    border-radius: 20px;
+    padding: 2%;
+    color: crims;
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+    font-style: initial;
+    text-align: justify;
+    letter-spacing: 0.75px;
+    word-spacing: 1.5px;
+    margin-bottom: 20px;
+}
+
+
