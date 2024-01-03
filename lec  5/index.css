@@ -1,6 +1,8 @@
 .parent1
 {
     display: flex;
+    /* flex-direction: column; */
+
 }
 
 .parenr2
@@ -10,40 +12,102 @@
 
 .box1
 {
-    height: 25%;
-    width: 25%;
-    border: 2px solid red;
+    
+    height: 600px;
+    width: 600px;
+    min-height: 250px;
+    min-width: 350px;
+   
     margin-right: 2.5%;
     margin-bottom: 5%;
+    border-radius: 30px ;
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(100,43,115,1) 0%, rgba(4,0,4,1) 90% );
+    
 }
+.img1
+{
+    height: 400px;
+    width: 350px;
+    justify-content: center;
+    border-radius: 30px 30px 0px 0px; 
+
+}
+
+
 .box2
 {
-    height: 25%;
-    width: 25%;
-    border: 2px solid red;
+
+    height: 600px;
+    width: 600px;
+    min-height: 250px;
+    min-width: 350px;
+  
     margin-right: 2.5%;
     margin-bottom: 5%;
+    border-radius: 30px ;
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(100,43,115,1) 0%, rgba(4,0,4,1) 90% );
+  
 
+
+
+}
+.img2
+{
+    height: 400px;
+    width: 350px;
+    justify-content: center;
+    border-radius: 30px 30px 0px 0px; 
+    
 
 }
 .box3
 {
-    height: 25%;
-    width: 25%;
-    border: 2px solid red;
+    height: 600px;
+    width: 600px;
+    min-height: 250px;
+    min-width: 350px;
+  
     margin-right: 2.5%;
     margin-bottom: 5%;
+    border-radius: 30px ;
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(100,43,115,1) 0%, rgba(4,0,4,1) 90% );
+   
 
+
+
+}
+.img3
+{
+    height: 400px;
+    width: 350px;
+    justify-content: center;
+    border-radius: 30px 30px 0px 0px; 
+    
 
 }
 .box4
 {
-    height: 25%;
-    width: 25%;
-    border: 2px solid red;
+    height: 600px;
+    width: 600px;
+    min-height: 250px;
+    min-width: 350px;
+
     margin-right: 2.5%;
     margin-bottom: 5%;
+    border-radius: 30px ;
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(100,43,115,1) 0%, rgba(4,0,4,1) 90% );
 
+
+
+
+}
+.img4
+{
+    height: 400px;
+    width: 350px;
+    justify-content: center;
+    border-radius: 30px 30px 0px 0px; 
+    
 
 }
 
@@ -55,42 +119,247 @@
 
 .box01
 {
-    height: 25%;
-    width: 25%;
-    border: 2px solid red;
+    height: 600px;
+    width: 600px;
+    min-height: 250px;
+    min-width: 350px;
+ 
     margin-right: 2.5%;
     margin-top: 2.5%;
+    border-radius: 30px ;
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(100,43,115,1) 0%, rgba(4,0,4,1) 90% );
+   
 
+
+
+}
+.img01
+{
+    height: 400px;
+    width: 350px;
+    justify-content: center;
+    border-radius: 30px 30px 0px 0px; 
+    
 
 }
 
 .box02
 {
-    height: 25%;
-    width: 25%;
-    border: 2px solid red;
+    height: 600px;
+    width: 600px;
+    min-height: 250px;
+    min-width: 350px;
+ 
     margin-right: 2.5%;
     margin-top: 2.5%;
+    border-radius: 30px;
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(100,43,115,1) 0%, rgba(4,0,4,1) 90% );
+  
 
+
+
+}
+.img02
+{
+    height: 400px;
+    width: 350px;
+    justify-content: center;
+    border-radius: 30px 30px 0px 0px; 
+    
 
 }
 .box03
 {
-    height: 25%;
-    width: 25%;
-    border: 2px solid red;
+    height: 600px;
+    width: 600px;
+    min-height: 250px;
+    min-width: 350px;
+
     margin-right: 2.5%;
     margin-top: 2.5%;
+    border-radius: 30px ;
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(100,43,115,1) 0%, rgba(4,0,4,1) 90% );
+
 
 
 }
+.img03
+{
+    height: 400px;
+    width: 350px;
+    justify-content: center;
+    border-radius: 30px 30px 0px 0px; 
+    
+
+}
+
 .box04
 {
-    height: 25%;
-    width: 25%;
-    border: 2px solid red;
+    height: 600px;
+    width: 600px;
+    min-height: 250px;
+    min-width: 350px;
+  
     margin-right: 2.5%;
     margin-top: 2.5%;
+    border-radius: 30px ;
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(100,43,115,1) 0%, rgba(4,0,4,1) 90% );
+
+
 
 
 }
+.img04
+{
+    height: 400px;
+    width: 350px;
+    justify-content: center;
+    border-radius: 30px 30px 0px 0px; 
+    
+
+}
+
+.ctn1
+{
+    display: flex;
+   
+    min-height: 90px;
+    min-width: 330px;
+
+  
+    margin-top: 0px;
+ 
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.ctn2
+{
+    display: flex;
+   
+    min-height: 90px;
+    min-width: 330px;
+
+  
+    margin-top: 0px;
+ 
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.ctn3
+{
+    display: flex;
+   
+    min-height: 90px;
+    min-width: 330px;
+
+  
+    margin-top: 0px;
+ 
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.ctn4
+{ display: flex;
+   
+    min-height: 90px;
+    min-width: 330px;
+
+  
+    margin-top: 0px;
+ 
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.ctn01
+{
+    display: flex;
+   
+    min-height: 90px;
+    min-width: 330px;
+  
+  
+    margin-top: 0px;
+ 
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.ctn02
+{
+    display: flex;
+   
+    min-height: 90px;
+    min-width: 330px;
+ 
+  
+    margin-top: 0px;
+ 
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.ctn03
+{
+    display: flex;
+   
+    min-height: 90px;
+    min-width: 330px;
+  
+  
+    margin-top: 0px;
+ 
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.ctn04
+{ display: flex;
+   
+    min-height: 90px;
+    min-width: 330px;
+
+  
+    margin-top: 0px;
+ 
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.A_price
+{
+    margin-top: 5%;
+    font-size: x-large;
+    margin-left: 35%;
+    font-weight: lighter;
+    display: inline;
+    color: antiquewhite;
+    
+   
+}
+
+.D_price
+{
+    margin-top: 2%;
+    font-size: xxx-large;
+    margin-left: 20%;
+    font-weight: bolder;
+    margin-bottom: 5%;
+    color: azure;
+    display: inline-block ;
+    
+
+}
+.A_price :hover
+{
+    background-color: rgb(196, 241, 255);
+    color: black;
+    border-radius: 10px;
+}
+
+.D_price:hover 
+{
+    background-color: rgb(196, 241, 255);
+    color: black;
+    border-radius: 10px;
+    font-size: 55px;
+}
+
+
+
