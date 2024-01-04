@@ -1,3 +1,120 @@
+.nav_bar
+{
+    height: 150px;
+    border: 2px solid black;
+    display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.icons
+{
+    display: flex;
+    align-items: center;
+  
+}
+.icon_img
+{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    /* justify-content: space-evenly; */
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.home
+{
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 150px;
+    height: 100px;
+    height: max-content;
+    margin-right: 2%;
+
+}
+.contact
+{
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid black;
+    width: 150px;
+    height: 100px;
+
+    height: max-content;
+    border-radius: 15px;
+    margin-right: 2%;
+
+
+
+}
+.about
+{
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid black;
+    width: 150px;
+    height: 100px;
+
+    height: max-content;
+    border-radius: 15px;
+    margin-right: 2%;
+
+
+
+}
+.login
+{
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid black;
+    width: 150px;
+    height: 100px;
+
+    height: max-content;
+    border-radius: 15px;
+    margin-right: 2%;
+
+
+
+}
+.sign_up
+{
+    display: flex;
+    justify-content: space-evenly;
+    justify-content: center;
+    border: 2px solid black;
+    width: 150px;
+    height: 100px;
+
+    height: max-content;
+    border-radius: 15px;
+    margin-right: 2%;
+
+
+
+}
+#text
+{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5.8%;
+    margin-left: 1%;
+    font-size: large;
+    font-weight: bolder;
+    
+   
+}
+
+
+
+
+
+
+
+
 .pizza_box1
 {
     display: flex;
