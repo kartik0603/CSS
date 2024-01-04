@@ -1,84 +1,75 @@
-.button_box
-{
-display:  flex;
-flex-direction: column;
-width: fit-content;
-justify-content: center;
-margin-top: 2%;
-margin-left: 50%;
-
-
+.button_box {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  justify-content: center;
+  margin-top: 2%;
+  margin-left: 50%;
 }
-.btnns
-{
-   
-    margin-top: 10%;
-    margin-bottom: 15%;
-    border-radius: 10px;
-    font-size: xxx-large;
-    font-weight: bolder;
-     text-decoration: none;
-     background-image: linear-gradient(to right, #f78ca0 0%, #f9748f 19%, #fd868c 60%, #fe9a8b 100%);
-     border: 8px solid  orangered;
- 
-width: 150px;
+.btnns {
+  margin-top: 12%;
+  margin-bottom: 15%;
+  border-radius: 10px;
+  font-size: xx-large;
+  font-weight: bold;
+  text-decoration: none;
+  background-image: linear-gradient(
+    to right,
+    #f78ca0 0%,
+    #f9748f 19%,
+    #fd868c 60%,
+    #fe9a8b 100%
+  );
+  border: 6px solid white;
 
-     
+  width: 150px;
 }
-.btnns:hover
-{
-    /* font-size: 50px; */
-    font-weight: bolder;
-
-
-    
-    /* background-color: #A9C9FF;
-    background-image: linear-gradient(180deg, #A9C9FF 0%, #FFBBEC 100%); */
-    
-
-
-}
-.text_css
-{
-    font-size: 150px;
-    font-weight: bolder;
-    font-family: Impact, Haettenschweiler;
-    letter-spacing: 2.5px;
-    margin-top: 10%;
-    margin-left: 45%;
-}
-.text_css:hover
-{
-    font-size: 90px;
+.btnns:hover {
+  background-color: aliceblue;
 }
 
-
-.btnBox
-{
-display: flex;
-flex-direction: column;
-margin-left: 40%;
-/* border:  solid 2px black; */
-width: 1400px;
-justify-content: center;
-background-image: radial-gradient(circle 248px at center, #90f9ff 0%, #a0ecff 47%, #89cdfe 100%);
-border-radius: 45px;
-
+.text_css {
+  font-size: 100px;
+  font-weight: bolder;
+  font-family: Impact, Haettenschweiler;
+  letter-spacing: 2.5px;
+  margin-top: 10%;
+  margin-left: 40%;
 }
-.btn
-{
-    display: flex;
-/* border:  solid 2px black; */
-width: fit-content;
-margin-top: 5%;
-margin-bottom: 5%;
-width: 1250px;
-margin-left: 5%;
-background-image: linear-gradient(to top, #9890e3 0%, #b1f4cf 100%);
-border-radius: 40px;
-
-
-
-    
+.text_css:hover {
+  /* font-size: 90px; */
+  color: rgb(157, 157, 240);
 }
 
+.btnBox {
+  display: flex;
+  flex-direction: column;
+  margin-left: 40%;
+  /* border:  solid 2px black; */
+  width: 420px;
+  justify-content: center;
+  background-image: radial-gradient(
+    circle 248px at center,
+    #90f9ff 0%,
+    #a0ecff 47%,
+    #89cdfe 100%
+  );
+  border-radius: 45px;
+}
+.btn {
+  display: flex;
+  /* border:  solid 2px black; */
+  width: fit-content;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width: 380px;
+  margin-left: 5%;
+  background-image: linear-gradient(to top, #9890e3 0%, #b1f4cf 100%);
+  border-radius: 40px;
+}
+
+img {
+  margin-top: 5%;
+  width: 100px;
+  height: 100px;
+}
