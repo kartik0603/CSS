@@ -692,6 +692,97 @@ height: max-content;
     font-size: x-large;
 }
 
+
+
+.sweet_box1
+{
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: space-evenly;
+    margin-top: 2%;
+}
+
+.sweet1
+{
+    width: 450px;
+    height: 600px;
+    justify-content: space-evenly;
+    border-radius: 15px ;
+    background-image: linear-gradient(135deg, #f5f7fa 0%, #ffffff 100%);
+}
+
+
+.sweet_img1
+{
+    width: 300px;
+    height: 250px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.sweet_img1:hover
+{
+    width: 280px;
+    height: 240px;
+}
+
+.sweet_text1
+{
+    font-size: x-large;
+    margin-left: 5%;
+    font-weight: bolder;
+    font-family:  sans-serif;
+}
+
+.sweet_dis1
+{
+    font-size: 15px;
+    margin-top: 2%;
+    margin-left: 5%;
+    color: dimgray;
+    /* border: 2px solid black; */
+    height: 100px;
+}
+
+.sweet_price1
+{
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.sweet_shop1
+{
+    display: flex;
+    /* border: 2px solid black; */
+    height: 50px;
+    
+    border-radius: 18px;
+    justify-content: center;
+    width: fit-content;
+    margin-left: 35%;
+    background-image: linear-gradient(120deg, #fec8c8 0%, #ffffe3 100%);
+}
+
+.sweet_shop1:hover
+{
+    background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+    width: max-content;
+    height: max-content;
+}
+
+.sweet_order1
+{
+    font-size: large;
+    font-weight: bolder;font-family: Arial, Helvetica, sans-serif;
+}
+
+.sweet_order1:hover
+{
+    font-size: x-large;
+}
+
 .fast_box
 {
     display: flex;
@@ -796,11 +887,16 @@ height: max-content;
 
 .pizza_icon
 {
-    width: 60px;
-    height: 60px;
+    width: 80px;
+    height: 80px;
     margin-top: 5%;
     margin-left: 2%;
 
+}
+.pizza_icon:hover
+{
+    width: 100px;
+    height: 100px;
 }
 
 #burger
@@ -815,10 +911,15 @@ height: max-content;
 
 .burger_icon
 {
-    width: 60px;
-    height: 60px;
+    width: 80px;
+    height: 80px;
     margin-top: 5%;
     margin-left: 2%;
+}
+.burger_icon:hover
+{
+    width: 100px;
+    height: 100px;
 }
 
 #paneer
@@ -833,10 +934,15 @@ height: max-content;
 
 .paneer_icon
 {
-    width: 60px;
-    height: 60px;
+    width: 80px;
+    height: 80px;
     margin-top: 5%;
     margin-left: 2%; 
+}
+.paneer_icon:hover
+{
+    width: 100px;
+    height: 100px;
 }
 
 
@@ -857,6 +963,12 @@ height: max-content;
     margin-top: 5%;
     margin-left: 2%; 
 }
+
+.gujarati_icon:hover
+{
+    width: 100px;
+    height: 100px;
+}
 #sweet
 {
     display: flex;
@@ -875,6 +987,12 @@ height: max-content;
     margin-left: 2%; 
 }
 
+.sweet_icon:hover
+{
+    width: 100px;
+    height: 100px; 
+}
+
 #fast
 {
     display: flex;
@@ -891,7 +1009,11 @@ height: max-content;
     margin-top: 5%;
     margin-left: 2%;
 }
-
+.fast_icon:hover
+{
+    width: 100px;
+    height: 100px; 
+}
 .menu
 {
     display: flex;
@@ -906,7 +1028,23 @@ height: max-content;
     font-size: xx-large;
     font-weight: bolder;
     font-family: cursive;
-    margin-top: 10%;
+    margin-top: 1%;
 
 
+}
+
+.main_menu
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    font-size: 70px;
+    font-weight: bolder;
+    font-family: cursive;
+}
+
+.menu_icon
+{
+    width: 100px;
+    height: 100px; 
 }
