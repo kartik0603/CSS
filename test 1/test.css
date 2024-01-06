@@ -310,6 +310,7 @@ font-weight: bold;
     display: flex;
     justify-content: space-evenly;
     margin-top: 5%;
+    /* margin-left: 2%; */
 
 
     
@@ -346,7 +347,8 @@ font-weight: bold;
     width: 280PX;
     height: 280PX;
     display: flex;
-    background-image: linear-gradient( 174.2deg,  rgb(245, 251, 255) 7.1%, rgb(244, 255, 254) 67.4% );
+    background-image: linear-gradient(45deg, #e8fff4cc 0%, #fdfdfd 100%);
+ 
     flex-direction: column;
     /* justify-content: space-around;    */
     /* margin-top: 5%; */
@@ -375,6 +377,9 @@ font-weight: bold;
 
 #top
 {
+    display: flex;
+    flex-direction: column;
     float: right;
     margin-top: 80%;
+    margin-left: 50%;
 }
