@@ -1,0 +1,46 @@
+.pic1
+{
+display: flex;
+justify-content: space-evenly;
+}
+.p1
+{
+    margin-top: 10%;
+}
+.p1_img
+{
+    width: 200px;
+    height: 250px;
+}
+
+
+.p1_img:hover
+{
+    
+    transform: scaleX(2) scaleY(2) scaleZ(2) rotate(5deg);
+    
+
+    /* transform: rotate(30deg); */
+}
+
+.pic2
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.p2
+{
+    margin-top: 10%;
+}
+
+.p2_img
+{
+    width: 250px;
+    height: 300px;
+}
+
+.p2_img:hover
+{
+    transform: scaleX(2) scaleY(2) scaleZ(2);
+}
