@@ -44,3 +44,82 @@ justify-content: space-evenly;
 {
     transform: scaleX(2) scaleY(2) scaleZ(2);
 }
+
+
+.pic3
+{
+    display: flex;
+justify-content: space-evenly;
+}
+
+
+.p3
+{
+    margin-top: 15%;
+}
+
+
+.p3_img
+{
+    width: 250px;
+    height: 300px;
+}
+
+
+.p3_img:hover
+{
+    transform: scaleX(2.25) scaleY(2.25) scaleZ(2.25) rotate(-10deg)  ;
+}
+
+
+
+
+.pic4
+{
+    display: flex;
+justify-content: space-evenly;
+}
+
+.p4
+{
+    margin-top: 15%;
+}
+
+.p4_img
+{
+    width: 400px;
+    height: 500px;
+}
+
+.p4_img:hover
+{
+    transform: scaleX(2.0125) scaleY(2.0125) scaleZ(2.0125) rotate(-5deg)  ;
+
+}
+
+
+.pic5
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.p5
+{
+    margin-top: 25%;
+}
+
+.p5_img
+{
+    width: 500px;
+    height: 700px;
+}
+
+
+.p5_img:hover
+{
+    transform: scaleX(2) scaleY(2.5) scaleZ(2) rotate(2deg)  ;
+    
+
+}
