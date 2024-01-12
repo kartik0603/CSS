@@ -1,12 +1,12 @@
 .nav_bar
 {
-    height: 150px;
+    height: 100px;
     border: 2px solid black;
     display: flex;
   align-items: center;
   justify-content: space-between;
-  background: rgb(0,24,36);
-background: linear-gradient(139deg, rgba(0,24,36,1) 0%, rgba(5,23,153,0.9949229691876751) 55%, rgba(59,40,103,1) 100%);
+  /* background: rgb(0,24,36); */
+/* background: linear-gradient(139deg, rgba(0,24,36,1) 0%, rgba(234, 236, 249, 0.995) 55%, rgb(238, 233, 249) 100%); */
 border-radius: 10px;
 }
 
@@ -39,8 +39,9 @@ border-radius: 10px;
     height: max-content;
     margin-right: 2%;
     /* color: white; */
-    background-color: #8EC5FC;
-background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+    /* background: linear-gradient(139deg, rgba(0,24,36,1) 0%, rgba(5,23,153,0.9949229691876751) 55%, rgba(59,40,103,1) 100%); */
+
+
 
 
 
@@ -52,8 +53,9 @@ background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
 .home:hover
 {
     background: rgb(0,24,36);
-    background: linear-gradient(139deg, rgba(0,24,36,1) 0%, rgba(5,23,153,0.9949229691876751) 55%, rgba(59,40,103,1) 100%);
     color: white;
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
 
 }
 
@@ -69,8 +71,9 @@ background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
     border-radius: 15px;
     margin-right: 2%;
     /* color: white; */
-    background-color: #8EC5FC;
-    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+    /* background: linear-gradient(139deg, rgba(0,24,36,1) 0%, rgba(5,23,153,0.9949229691876751) 55%, rgba(59,40,103,1) 100%); */
+
+
 
 
 
@@ -81,8 +84,9 @@ background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
 .contact:hover
 {
     background: rgb(0,24,36);
-    background: linear-gradient(139deg, rgba(0,24,36,1) 0%, rgba(5,23,153,0.9949229691876751) 55%, rgba(59,40,103,1) 100%);
     color: white;
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
 
 }
 
@@ -99,8 +103,9 @@ background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
     border-radius: 15px;
     margin-right: 2%;
     /* color: white; */
-    background-color: #8EC5FC;
-    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+    /* background: linear-gradient(139deg, rgba(0,24,36,1) 0%, rgba(5,23,153,0.9949229691876751) 55%, rgba(59,40,103,1) 100%); */
+
+
 
 
 
@@ -110,8 +115,9 @@ background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
 .about:hover
 {
     background: rgb(0,24,36);
-    background: linear-gradient(139deg, rgba(0,24,36,1) 0%, rgba(5,23,153,0.9949229691876751) 55%, rgba(59,40,103,1) 100%);
     color: white;
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
 
 
 }
@@ -128,9 +134,9 @@ background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
     border-radius: 15px;
     margin-right: 2%;
     /* color: white; */
-    background-color: #8EC5FC;
-    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+    /* background: linear-gradient(139deg, rgba(0,24,36,1) 0%, rgba(5,23,153,0.9949229691876751) 55%, rgba(59,40,103,1) 100%); */
 
+  
 
 
 
@@ -138,8 +144,10 @@ background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
 .login:hover
 {
     background: rgb(0,24,36);
-    background: linear-gradient(139deg, rgba(0,24,36,1) 0%, rgba(5,23,153,0.9949229691876751) 55%, rgba(59,40,103,1) 100%);
     color: white;
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+
 
 
 }
@@ -157,8 +165,9 @@ background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
     border-radius: 15px;
     margin-right: 2%;
     /* color: white; */
-    background-color: #8EC5FC;
-    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+    /* background: linear-gradient(139deg, rgba(0,24,36,1) 0%, rgba(5,23,153,0.9949229691876751) 55%, rgba(59,40,103,1) 100%); */
+
+
 
 
 
@@ -167,8 +176,9 @@ background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
 .sign_up:hover
 {
     background: rgb(0,24,36);
-    background: linear-gradient(139deg, rgba(0,24,36,1) 0%, rgba(5,23,153,0.9949229691876751) 55%, rgba(59,40,103,1) 100%);
     color: white;
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
 }
 
 #text
@@ -195,18 +205,18 @@ background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
     color: rgb(0, 0, 68);
     /* border: 2px solid black; */
     border-radius: 1400px;
-    background-color: #FFDEE9;
-background-image: linear-gradient(0deg, #fee8ef 0%, #dbfefd 100%);
+    /* background-color: #FFDEE9;
+background-image: linear-gradient(0deg, #fee8ef 0%, #dbfefd 100%); */
 
     
 }
-/* .comp_Name:hover
+ .comp_Name:hover
 {
-    font-size: 120px;
-    background-color: #A9C9FF;
-background-image: linear-gradient(180deg, #A9C9FF 0%, #FFBBEC 100%);
+    transform: scaleX(1.5) scaleY(1.5) scaleZ(1.5);
 
-} */
+  
+
+} 
 
 
 
