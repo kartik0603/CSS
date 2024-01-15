@@ -67,8 +67,8 @@
     display: grid;
     /* background-color: red; */
 
-    grid-template-columns: 420px 420px 420px 420px;
-    grid-template-rows: 620px 620px 620px 620px;
+    grid-template-columns: 300px 300px 300px 300px;
+    grid-template-rows: 580px 580px 580px 580px;
     row-gap: 5%;
     column-gap: 1%;
 
@@ -90,17 +90,17 @@
     
    background-color: rgb(255, 255, 255);
    /* border: 1px solid black; */
-   width: 400px;
-   height: 700px;
+   width: 300px;
+   height: 580px;
    border-radius: 30px;
-   box-shadow: 5px 1px 10px 5px  black;
+   box-shadow: 5px 10px 30px 5px  black;
     
 }
 .protein_img
 {
   
-    width: 390px;
-    height: 600px;
+    width: 299px;
+    height: 500px;
    border-radius: 40px;
 
 }
@@ -110,7 +110,7 @@
 .protein_text
 {
     text-align: center;
-    font-size: x-large;
+    font-size: large;
     font-weight: bolder;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
@@ -118,7 +118,7 @@
 .protein_items
 {
     text-align: center;
-    font-size: xxx-large;
+    font-size: xx-large;
 }
 
 protein_btn_box
@@ -137,6 +137,7 @@ protein_btn_box
     font-size: large;
     background-color: gold;
     border: 2px solid gold;
+    border-radius: 10px;
 }
 .protein_btns:hover
 {
