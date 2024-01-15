@@ -1,0 +1,145 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ .body
+ {
+    height: 100vh;
+    width: 100vw;
+ }
+
+
+.nav_bar
+{
+   
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+   text-align: center;
+    margin-top: 1%;
+    margin-left: 0.5%;
+    width: 99%;
+   border: 2px solid white;
+   background-color: white;
+   box-shadow: 5px 2px 2px 1px black;
+  
+
+    position: relative;
+    top: 2%;
+    
+}
+
+.logo_img
+{
+    /* position: relative;
+    left: 0%; */
+    
+}
+
+#information
+{
+    position: relative;
+    top: 2%;
+    font-weight: bolder;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.banner
+{
+    margin-top: 2%;
+}
+.video_protein
+{
+   
+    margin-top: 3.5%;
+  background-color: black;
+  width: 95vw;
+    margin-left: 2%;
+}
+
+.protein_container
+{
+    width: 100%;
+    height: 100%;
+    display: grid;
+    /* background-color: red; */
+
+    grid-template-columns: 420px 420px 420px 420px;
+    grid-template-rows: 620px 620px 620px 620px;
+    row-gap: 5%;
+    column-gap: 1%;
+
+    
+    margin-top: 5%;
+    justify-content: center;
+    /* align-items: center; */
+   
+
+
+}
+
+.protein_items
+{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    
+   background-color: rgb(255, 255, 255);
+   /* border: 1px solid black; */
+   width: 400px;
+   height: 700px;
+   border-radius: 30px;
+   box-shadow: 5px 1px 10px 5px  black;
+    
+}
+.protein_img
+{
+  
+    width: 390px;
+    height: 600px;
+   border-radius: 40px;
+
+}
+
+
+
+.protein_text
+{
+    text-align: center;
+    font-size: x-large;
+    font-weight: bolder;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.protein_items
+{
+    text-align: center;
+    font-size: xxx-large;
+}
+
+protein_btn_box
+{
+    text-align: center;
+    /* font-weight: bolder; */
+    /* background-color: yellow; */
+    
+}
+.protein_btns
+{
+    width: 120px;
+    height: 50px;
+    margin-bottom: 5%;
+    font-weight: bolder;
+    font-size: large;
+    background-color: gold;
+    border: 2px solid gold;
+}
+.protein_btns:hover
+{
+    background-color: white;
+}
+
