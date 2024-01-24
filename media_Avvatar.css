@@ -69,7 +69,8 @@
     grid-template-rows: 310px 310px 310px 351px 310px 310px;
     row-gap: 1%;
     column-gap: 1%;
-    /* margin: 4%; */
+    margin: 4%;
+    padding: 2%;
 
  
 
