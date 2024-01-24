@@ -10,6 +10,11 @@
     width: 100vw;
  }
 
+ .discount
+ {
+    width: 100%;
+ }
+
 
 .nav_bar
 {
@@ -28,8 +33,11 @@
 
     position: relative;
     top: 2%;
+    overflow: hidden;
     
 }
+
+
 
 
 
@@ -40,12 +48,14 @@
     font-weight: bolder;
     font-size: x-large;
     font-family: Arial, Helvetica, sans-serif;
+    
 }
 
 
 .banner
 {
     margin-top: 2%;
+    
 }
 .video_protein
 {
@@ -67,6 +77,7 @@
     grid-template-rows: 550px 550px 550px 550px;
     row-gap: 5%;
     column-gap: 1%;
+ 
 
     
     margin-top: 5%;
@@ -123,7 +134,7 @@
     font-size: xx-large;
 }
 
-protein_btn_box
+.protein_btn_box
 {
     text-align: center;
     /* font-weight: bolder; */
