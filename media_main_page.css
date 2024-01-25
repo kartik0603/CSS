@@ -4,6 +4,12 @@
     {
         display: flex;
         flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+    }
+    .text_css 
+    {
+        font-size: 30px ;
     }
 
     .button_box
@@ -15,5 +21,49 @@
   justify-content: center;
   align-items: center;
  
+}
+
+.btnBox
+{
+    display: flex;
+    flex-direction: column;
+   
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+   
+}
+.btn
+{
+    display: flex;
+    justify-content: center;
+    
+    /* width: fit-content; */
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 90%;
+ 
+ 
+
+
+}
+.img_css_logo 
+{
+    width: 80px;
+  height: 60px;
+}
+
+.btnns 
+{
+  margin-top: 12%;
+  margin-bottom: 15%;
+  border-radius: 10px;
+  font-size: large;
+  font-weight: bold;
+  margin-right: 2%;
+
+  width: 100px;
+  border: 2px solid white;
+
 }
 }
