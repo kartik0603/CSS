@@ -12,7 +12,8 @@
     
 .nav_bar{
     display: flex;
-    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
    width: 98%;
    margin: 1%;
   
