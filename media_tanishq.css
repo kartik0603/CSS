@@ -1,4 +1,5 @@
-@media  (max-width:1079px) and (min-width:320px)
+/* @media  (max-width:1079px) and (min-width:320px) */
+@media only screen and (max-width: 10798px)
 {
   .banner
    {
@@ -882,9 +883,9 @@ font-weight: bold;
 
 
 
+@media only screen and (max-width: 768px)
 
 
-@media  (max-width:369px) and (min-width:320px)
 {
 
   * {
