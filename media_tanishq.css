@@ -275,7 +275,7 @@ height: 250px;
 
 .gift_banner-img
 {
-  width: 95%;
+  width: 99%;
   height: 55%;
 }
 .text_box5
@@ -401,7 +401,7 @@ font-weight: bold;
 
 .starburst_banner_img
 {
-  width: 70%;
+  width: 99%;
 }
 
 
@@ -411,7 +411,7 @@ font-weight: bold;
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 70%;
+  width: 99%;
 }
 
 .text_box8
@@ -478,7 +478,7 @@ font-weight: bold;
 
 .rivaah_baner_img
 {
-  width: 81%;
+  width: 99%;
 
 }
 
@@ -571,7 +571,7 @@ font-weight: bold;
 
 .wedding_video
 {
-  width: 70%;
+  width: 99%;
   border-radius: 10px;
 }
 
@@ -1170,7 +1170,7 @@ height: 250px;
 
 .gift_banner-img
 {
-  width: 95%;
+  width: 99%;
   height: 55%;
 }
 .text_box5
@@ -1296,7 +1296,7 @@ font-weight: bold;
 
 .starburst_banner_img
 {
-  width: 40%;
+  width: 99%;
 }
 
 
@@ -1306,7 +1306,7 @@ font-weight: bold;
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 40%;
+  width: 99%;
 }
 
 .text_box8
@@ -1373,7 +1373,7 @@ font-weight: bold;
 
 .rivaah_baner_img
 {
-  width: 42%;
+  width: 99%;
 
 }
 
@@ -1466,7 +1466,7 @@ font-weight: bold;
 
 .wedding_video
 {
-  width: 40%;
+  width: 99%;
   border-radius: 10px;
 }
 
@@ -1771,4 +1771,5 @@ font-weight: bold;
   width: 40px;
   height: 30px;
 }
+
 }
