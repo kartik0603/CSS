@@ -52,14 +52,17 @@
 
         <div class="search-container_tanishq">
 
-          <form style="display: flex;
-            justify-content: center; align-items: center;">
-            <input type="text" placeholder="Search for Gold Jewellery, Diamond Jewellery and more" name="search"
-              style="width: 400px; border-radius: 20px; height: 40px; text-align: center; border: 0.2px solid #832729; background-color:#ffffff;" />
-            <button type="submit"
-              style="width: 50px; height: 40px; border-radius: 25px; border: 0.2px solid #832729;background-color: #ffffff;"
-              text-align:center><i class="fa fa-search"></i></button>
+          <form id="tanishq_serch_bar" >
+
+            <input id="tanishq_search_inside_bar" type="text" placeholder="Search for Gold Jewellery, Diamond Jewellery and more" name="search"/>
+
+            <button id="tanishq_search_button" type="submit">
+
+              <i class="fa fa-search"></i>
+            </button>
+
           </form>
+
         </div>
 
       </div>
@@ -602,10 +605,10 @@
           </div>
 
 
-          <video id="video-player" class="tanishq_gold_video" style="width:90%; border-radius: 10px;"
+          <video id="video-player" class="tanishq_gold_video" 
             controlslist="nodownload" preload="metadata" loop="" autoplay="" muted="" playsinline=""
             src="/tanish video.mp4">
-            <source data-src="" type="video/mp4">
+            
           </video>
 
 
