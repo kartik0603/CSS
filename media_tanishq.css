@@ -1476,8 +1476,8 @@ font-weight: bold;
 
 
 
-  grid-template-columns: 220px 220px 90px  ;
-  grid-template-rows: 310px 310px 310px 310px  310px 100px;
+  grid-template-columns: 125px 125px 115px  ;
+  grid-template-rows: 200px 200px 200px 200px  200px 100px;
   row-gap: 2%;
   column-gap: 1%;
 
@@ -1499,8 +1499,8 @@ font-weight: bold;
   align-items: center;
   
 
- width: 210px;
- height: 300px;
+ width: 125px;
+ height: 190px;
  transition: all 1.5s;
 
  
@@ -1523,13 +1523,13 @@ font-weight: bold;
    
   
     color: #832729;
-    font-weight: bolder;
-    font-size: 25px;
+    font-weight: bold;
+    font-size: 20px;
 }
 .wedding_celebration_img
 {
-  width: 210px;
-  height: 290px;
+  width: 125px;
+  height: 190px;
 }
 
 
@@ -1553,7 +1553,7 @@ font-weight: bold;
 
   /* background-color: red; */
 
-  grid-template-columns: 150px 250px   ;
+  grid-template-columns: 100px 250px   ;
   grid-template-rows: 180px 180px 180px 180px  180px 180px 180px 180px  180px  290px;
   row-gap: 2%;
   column-gap: 1%;
@@ -1576,14 +1576,14 @@ font-weight: bold;
   
  /* background-color: rgb(255, 255, 255); */
  /* border: 1px solid black; */
- width: 150px;
+ width: 100px;
  height: 170px;
  transition: all 1.5s;
 }
 
 .jewellary_guide_img
 {
-  width: 150px;
+  width: 100px;
  height: 170px;
 }
 
