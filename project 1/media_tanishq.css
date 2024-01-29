@@ -16,7 +16,7 @@
 
 
   .banner_tanishq_img {
-    width: 100%;
+    width: 100vw;
     height: 25%;
   }
 
@@ -38,14 +38,10 @@
     flex-wrap: wrap;
     justify-content: space-around;
     /* align-items: center; */
-    width: 100%;
+    width: 100vw;
     height: 100%;
-    position: sticky;
-    top: 0;
-    width: 100%;
-    z-index: 1000;
-    /* border: 2px solid black; */
-    /* margin-bottom: 1%; */
+  
+  
   
   }
 
@@ -275,7 +271,7 @@ height: 250px;
 
 .gift_banner-img
 {
-  width: 99%;
+  width: 99vw;
   height: 55%;
 }
 .text_box5
@@ -401,7 +397,7 @@ font-weight: bold;
 
 .starburst_banner_img
 {
-  width: 99%;
+  width: 99vw;
 }
 
 
@@ -411,7 +407,7 @@ font-weight: bold;
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 99%;
+  width: 99vw;
 }
 
 .text_box8
@@ -478,7 +474,7 @@ font-weight: bold;
 
 .rivaah_baner_img
 {
-  width: 99%;
+  width: 99vw;
 
 }
 
@@ -571,7 +567,7 @@ font-weight: bold;
 
 .wedding_video
 {
-  width: 99%;
+  width: 99vw;
   border-radius: 10px;
 }
 
@@ -912,7 +908,7 @@ font-weight: bold;
 
 
   .banner_tanishq_img {
-    width: 100%;
+    width: 100vw;
     height: 25%;
   }
 
@@ -1170,7 +1166,7 @@ height: 250px;
 
 .gift_banner-img
 {
-  width: 99%;
+  width: 99vw;
   height: 55%;
 }
 .text_box5
@@ -1296,7 +1292,7 @@ font-weight: bold;
 
 .starburst_banner_img
 {
-  width: 99%;
+  width: 99vw;
 }
 
 
@@ -1306,7 +1302,7 @@ font-weight: bold;
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 99%;
+  width: 99vw;
 }
 
 .text_box8
@@ -1373,7 +1369,7 @@ font-weight: bold;
 
 .rivaah_baner_img
 {
-  width: 99%;
+  width: 99vw;
 
 }
 
@@ -1466,7 +1462,7 @@ font-weight: bold;
 
 .wedding_video
 {
-  width: 99%;
+  width: 99vw;
   border-radius: 10px;
 }
 
