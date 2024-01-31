@@ -125,6 +125,16 @@
     height: 60px;
 }
 
+.tanishq_font_menu_box
+{
+  font-family: "Nunito Sans", sans-serif;
+   
+  /* font-family:  system-ui; */
+    color: #832729;
+    font-weight: bold;
+    font-size: 20px;
+}
+
 
 .text_box1
 {
