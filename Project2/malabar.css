@@ -696,9 +696,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: row;
+    /* flex-direction: row; */
     width: 100vw;
-    height: 65vh;
+    height: 100%;
     margin-top: 3%;
 
     /* border: 5px solid rgb(172, 11, 11); */
@@ -706,7 +706,7 @@
 
 .malabar_platinum_jewellery_info_product_1 {
     width: 24vw;
-    height: 65vh;
+    height: 100%;
     /* border: 3px solid rgb(27, 1, 1); */
     display: flex;
     justify-content: center;
@@ -721,7 +721,8 @@
 
 .malabar_platinum_jewellery_info_product_1_img {
     width: 23vw;
-    height: 64vh;
+    height: 500px;
+    /* height: 64vh; */
     border-radius: 20px;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
 
@@ -729,7 +730,7 @@
 
 .malabar_platinum_jewellery_info_product_2 {
     width: 49vw;
-    height: 65vh;
+    height: 100%;
     /* border: 3px solid rgb(9, 131, 212); */
     display: flex;
     justify-content: center;
@@ -739,14 +740,14 @@
 
 .malabar_platinum_jewellery_info_product_2_img {
     width: 49vw;
-    height: 64vh;
+    height: 500px;
     border-radius: 20px;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
 }
 
 .malabar_platinum_jewellery_info_product_3 {
     width: 24vw;
-    height: 65vh;
+    height: 100%;
     /* border: 3px solid rgb(73, 212, 9); */
     display: flex;
     justify-content: center;
@@ -756,7 +757,7 @@
 
 .malabar_platinum_jewellery_info_product_3_img {
     width: 23vw;
-    height: 64vh;
+    height: 500px;
     border-radius: 20px;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
 
@@ -969,7 +970,7 @@ height: fit-content;
 
 
 
-grid-template-columns: 460px 460px 460px ;
+grid-template-columns: 420px 420px 420px ;
 grid-template-rows: 680px 680px 680px 680px  230px;
 row-gap: 2%;
 
@@ -979,6 +980,7 @@ row-gap: 2%;
 margin-top: 3%;
 justify-content: center;
 align-items: center;
+/* border: 2px solid black; */
 }
 
 .malabar_brides_model
@@ -987,7 +989,7 @@ align-items: center;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 450px;
+    width: 410px;
     height: 650px;
     transition: all 1s;
    
@@ -1002,7 +1004,7 @@ align-items: center;
 
 .malabar_brides_model_img
 {
-    width: 450px;
+    width: 410px;
     height: 550px;
 }
 
@@ -1077,6 +1079,7 @@ width: 28vw;
 .malabar_it_s_time_to_show_video
 {
     margin-top: 2%;
+    width: 90vw;
 }
 
 .malabar_promise_container
@@ -1234,6 +1237,8 @@ width: 28vw;
     width: 49vw;
     height: fit-content;
     /* border:  2px solid #c0e006; */
+    margin-right: 2%;
+
 }
 
 .malabar_git_and_more_right_products
@@ -1296,6 +1301,7 @@ width: 28vw;
     height: fit-content;
     margin-top: 3%;
     /* border:  2px solid #e21e8d; */
+    margin-right: 1%;
 
 
    
@@ -1325,7 +1331,7 @@ width: 28vw;
   
     justify-content: space-evenly;
     align-items: center;
-    width: 47vw;
+    width: 48vw;
 }
 
 .malabar_store_right_info2
@@ -1336,7 +1342,7 @@ width: 28vw;
     justify-content: center;
     align-items: center;
     background: #f9f2ea;
-    width: 23vw;
+    width: 23.5vw;
     height: 200px;
     text-align: center;
     padding: 53px 25px;
@@ -1352,7 +1358,7 @@ width: 28vw;
     justify-content: center;
     align-items: center;
     background: #f9f2ea;
-    width: 23vw;
+    width: 23.5vw;
     text-align: center;
     padding: 53px 25px;
     margin-bottom: 10px;
