@@ -1173,6 +1173,8 @@ color: black;
 
  
   align-items: center;
+  margin: 1.5%;
+
 
 }
 
@@ -1250,6 +1252,8 @@ height: 250px;
   /* grid-row: 5%; */
   flex-direction: column;
   /* border: 1px solid black; */
+  margin: 1.5%;
+
 
  
   align-items: center;
@@ -1307,6 +1311,8 @@ font-weight: bold;
   /* gap: 5%; */
   /* grid-row: 5%; */
   flex-direction: column;
+  margin: 1.5%;
+
   /* border: 1px solid black; */
 
  
@@ -1374,6 +1380,8 @@ font-weight: bold;
   /* gap: 5%; */
   /* grid-row: 5%; */
   flex-direction: column;
+  margin: 1.5%;
+
   /* border: 1px solid black; */
 
  
@@ -1684,6 +1692,7 @@ font-weight: bold;
   border-radius: 15px;
   align-items: center;
   background-color: rgb(252, 247, 251);
+  margin: 1.5%;
 }
 .connect_img
 {
