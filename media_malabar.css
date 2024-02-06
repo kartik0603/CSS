@@ -411,7 +411,7 @@
 
     align-items: center;
 
-    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    /* box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px; */
 
 
 
@@ -419,7 +419,7 @@
 }
 
 .diamond_ring_banner_img {
-    width: 99vw;
+    width: 100vw;
 }
 
 .malabar_big_text {
@@ -489,7 +489,7 @@
 }
 
 .diamond_earing_img {
-    width: 99vw;
+    width: 100vw;
 
 }
 
@@ -547,7 +547,7 @@
 }
 
 .diamond_neckless_banner_img {
-    width: 99vw;
+    width: 100vw;
 
 }
 
@@ -1018,8 +1018,8 @@ width: 400px;
 }
 .malabar_promise_img
 {
-    width: 99vw;
-    height: 300px;
+    width: 100vw;
+    height: 100px;
 }
 .malabar_gift_and_more_main_container
 {
