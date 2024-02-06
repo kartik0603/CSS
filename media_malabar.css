@@ -1,29 +1,37 @@
 @media only screen and (max-width: 769px)
 {
-    .malabar_navbar_contact {
-        display: flex;
-        width: 100vw;
+    .malabar_navbar_contact
+     {
+        /* display: flex;
+        width: 100vw; */
+        display: none;
     }
     .malabar_navbar_contact_box {
-        position: relative;
+        /* position: relative;
         left: 50px;
         display: flex;
         flex-direction: row;
-        width: 50vw;
+        width: 50vw; */
+        display: none;
+
      
     
     }
     .navbar_contact {
-        display: flex;
+        /* display: flex;
         justify-content: center;
-        align-items: center;
+        align-items: center; */
+        display: none;
+
       
     
        
     }
     .malabar_navbar_contact_icons_img {
-        width: 10px;
+       
+    display: none;
     }
+
 
     
 .contact_text_navbar {
